@@ -1,0 +1,7 @@
+"A"	"R"	"N"	"D"	"C"	"Q"	"E"	"G"	"H"	"I"	"L"	"K"	"M"	"F"	"P"	"S"	"T"	"W"	"Y"	"V"	"Stops"	"Starts"
+"1"	"GCT"	"CGT"	"AAT"	"GAT"	"TGT"	"CAA"	"GAA"	"GGT"	"CAT"	"ATT"	"TTA"	"AAA"	"ATG"	"TTT"	"CCT"	"TCT"	"ACT"	"TGG"	"TAT"	"GTT"	"TAA"	"TTG"
+"2"	"GCC"	"CGC"	"AAC"	"GAC"	"TGC"	"CAG"	"GAG"	"GGC"	"CAC"	"ATC"	"TTG"	"AAG"	NA	"TTC"	"CCC"	"TCC"	"ACC"	NA	"TAC"	"GTC"	"TAG"	"CTG"
+"3"	"GCA"	"CGA"	NA	NA	NA	NA	NA	"GGA"	NA	"ATA"	"CTT"	NA	NA	NA	"CCA"	"TCA"	"ACA"	NA	NA	"GTA"	"TGA"	"ATG"
+"4"	"GCG"	"CGG"	NA	NA	NA	NA	NA	"GGG"	NA	NA	"CTC"	NA	NA	NA	"CCG"	"TCG"	"ACG"	NA	NA	"GTG"	NA	NA
+"5"	NA	"AGA"	NA	NA	NA	NA	NA	NA	NA	NA	"CTA"	NA	NA	NA	NA	"AGT"	NA	NA	NA	NA	NA	NA
+"6"	NA	"AGG"	NA	NA	NA	NA	NA	NA	NA	NA	"CTG"	NA	NA	NA	NA	"AGC"	NA	NA	NA	NA	NA	NA
